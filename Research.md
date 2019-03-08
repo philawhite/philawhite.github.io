@@ -22,7 +22,7 @@ subtitle:
 
 ## Working Papers
 
-- A Alegría, E Porcu, and **P. White**, "Space-Time Geostatistical Models with both Linear and Seasonal Temporal Components. Expected Submission: 2019.
+- A. Alegria, E. Porcu, and **P. White**, "Space-Time Geostatistical Models with both Linear and Seasonal Temporal Components. Expected Submission: 2019.
 - **P. White** and A. Gelfand, "Multivariate Functional Factor Models with Time-varying Clustering." Expected Submission: 2019.
 - **P. White**, A. Gelfand, and F. Li, "Model Comparison and Validation for Bayesian Hawkes Process Models." Expected Submission: 2019.
 - **P. White**, A. Gelfand, and F. Li, "Bayesian Modeling for Generalized Evolutionary Point Processes." Expected Submission: 2019.
