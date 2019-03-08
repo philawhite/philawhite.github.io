@@ -29,4 +29,26 @@ subtitle:
 
 # Posters and Presentations
 
+- "Pollution State Modeling for Mexico City"
+  - ASA ENVR Workshop - Statistics for the Environment: Research, Practice and Policy (2018)
+- "Nonseparable Covariance Models on Circles Cross Time: A Study of Mexico City Ozone"
+  - Duke Department of Statistical Science 701 Seminar Series (2018)
+  - International Conference on Advances in Interdisciplinary Statistics and Combinatorics (AISC) (2018)
+  - Brigham Young University (2018)
+  - RAND (2018)
+  - Los Alamos National Labs (2018)
+- "Prediction and Model Comparison for Areal Unit Data"
+  - Duke Department of Statistical Science 701 Seminar Series (2018)
+  - Society of Duke Fellows (2017)
+-  "Gaussian Process Model for Antarctic Surface Mass Balance and Ice Core Site Selection," 
+  - American Geophysical Union (2017), New Orleans, LA.
+  - Brigham Young University Student Research Conference (2015),  Provo, UT.
+  - Conference on Data Analysis (2014), Poster, Santa Fe, NM.
+  - Brigham Young University Student Research Conference (2014), Provo, UT.
+-  "Studies of electron spin in GaAs quantum dots,"
+  -  American Physical Society Meetings (2013), Baltimore, MD.
+-  "Photoluminescence Decays in Cadmium Telluride," 
+  - Brigham Young University Student Research Conference (2013), Provo, UT.
+
+
 
