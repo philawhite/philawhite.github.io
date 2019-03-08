@@ -4,13 +4,26 @@ title: About me
 subtitle:
 ---
 
-Philip White
+# Courses Taught
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Brigham Young University
 
-What else do you need?
+- Swedish 201: Winter 2012 
+- Swedish 202: Fall 2011, Fall 2012
 
-### my history
+## Duke University
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Statistics 111 (Probability and Statistics): Summer 2017 (Term I)
+
+# Teaching Assistant
+
+## Duke University
+
+- Statistics 944 (Spatial Statistics): Fall 2018
+- Statistics 444/644 (Spatio-temporal Modeling): Spring 2018, Fall 2018
+- Statistics 532 (Theory of Inference): Fall 2017
+- Statistics 111 (Probability and Statistics): Spring 2017 
+
+## Brigham Young University
+
+- Swedish 311: Winter 2013 
