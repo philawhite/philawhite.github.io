@@ -4,13 +4,8 @@ title: About me
 subtitle:
 ---
 
-Philip White
+I started as an Assistant Professor in the Department of Statistics at BYU in April of 2019. My research interests are spatial/spatiotemporal statistics, time series analysis, Functional Data Analysis, Hierarchical Modeling, and Bayesian Statistics. I enjoy working on applied problems.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I completed my Ph.D. in Statistical Science at Duke University in January of 2019. Alan Gelfand was my dissertation advisor. Prior to Duke, I completed a B.S. in Applied Physics and an M.S. in Statistics at BYU. 
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Outside of my work, I enjoy spending time with my wife (Laurel) and my three sons, and enjoy spending my free time with my family. At heart, I'm a homebody who enjoys cooking/baking, playing music, but I also love getting outdoors and traveling.
