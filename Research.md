@@ -10,11 +10,11 @@ subtitle:
 ## Peer-reviewed Publications
 
 
-- **P. White**, A. Gelfand, E. Rodrigues, and G. Tzintzun (2019), ``Pollution State Modeling for Mexico City,'' accepted at \emph{JRSS-A}. [link](https://arxiv.org/abs/1807.03935).
-- **P. White** and E. Porcu (2019), ``Nonseparable Covariance Models on Circles Cross Time: A Study of Mexico City Ozone,'' \emph{Environmetrics} [link](https://onlinelibrary.wiley.com/doi/full/10.1002/env.2558)
-- **P. White**, C. Berrett, S. Tass, and M. Findlay (2018), ``Modeling Efficiency of Foreign Aid Allocation in Malawi,'' \emph{The American Statistician}.  [link](https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1470032)
-- **P. White**, A. Gelfand, and T. Utlaut (2017), ``Prediction and model comparison for areal unit data,'' \emph{Spatial Statistics}, Volume 22, Part 1, 89-106. [link](http://www.sciencedirect.com/science/article/pii/S2211675317301422)
-- J. S. Colton, D. Meyer, K. Clark, D. Craft, J. Cutler, T. Park, and **P. White** (2012), ``Long-Lived electron spins in a modulation doped (100) GaAs quantum well,'' \emph{Journal of Applied Physics}, Volume 112, Issue 8.  [link](http://aip.scitation.org/doi/abs/10.1063/1.4759320)
+- **P. White**, A. Gelfand, E. Rodrigues, and G. Tzintzun (2019), ``Pollution State Modeling for Mexico City,'' accepted at *JRSS-A*. [link](https://arxiv.org/abs/1807.03935).
+- **P. White** and E. Porcu (2019), ``Nonseparable Covariance Models on Circles Cross Time: A Study of Mexico City Ozone,'' *Environmetrics*. [link](https://onlinelibrary.wiley.com/doi/full/10.1002/env.2558)
+- **P. White**, C. Berrett, S. Tass, and M. Findlay (2018), ``Modeling Efficiency of Foreign Aid Allocation in Malawi,'' *The American Statistician*.  [link](https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1470032)
+- **P. White**, A. Gelfand, and T. Utlaut (2017), ``Prediction and model comparison for areal unit data,'' *Spatial Statistics*, Volume 22, Part 1, 89-106. [link](http://www.sciencedirect.com/science/article/pii/S2211675317301422)
+- J. S. Colton, D. Meyer, K. Clark, D. Craft, J. Cutler, T. Park, and **P. White** (2012), ``Long-Lived electron spins in a modulation doped (100) GaAs quantum well,'' *Journal of Applied Physics*, Volume 112, Issue 8.  [link](http://aip.scitation.org/doi/abs/10.1063/1.4759320)
 
 ## Submitted Manuscripts
 
