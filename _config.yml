@@ -2,7 +2,7 @@
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
-
+encoding: UTF-8
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://philawhite.github.io"
 baseurl: ""
