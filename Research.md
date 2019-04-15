@@ -7,7 +7,7 @@ subtitle:
 
 ## Current Projects
 
-I am working on a few projects in pollution monitoring, including synthesizing data from stationary and mobile pollution monitors, working with pollutants as multivariate functional data, and covariance models for pollutants. I am working on point process modeling with applications in public policy. I am also working on projects in ice sheet modeling with various goals.
+I am working on a few projects in pollution monitoring, including synthesizing data from stationary and mobile pollution monitors, working with pollutants as multivariate functional data, and developing (cross-)covariance models. I am working on point process modeling with applications in public policy. I am also working on projects in ice sheet modeling with various goals.
 
 <!--- 
 A. Alegria, E. Porcu, and **P. White**, "Space-Time Geostatistical Models with both Linear and Seasonal Temporal Components. Expected Submission: 2019.
