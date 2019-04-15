@@ -4,6 +4,17 @@ title: Research
 subtitle:
 ---
 
+
+## Current Projects
+
+I am working on a few projects in pollution monitoring, including synthesizing data from stationary and mobile pollution monitors, working with pollutants as multivariate functional data, and covariance models for pollutants. I am working on point process modeling with applications in public policy. I am also working on projects in ice sheet modeling with various goals.
+
+%% A. Alegria, E. Porcu, and **P. White**, "Space-Time Geostatistical Models with both Linear and Seasonal Temporal Components. Expected Submission: 2019.
+<!  **P. White** and A. Gelfand, "Multivariate Functional Factor Models with Time-varying Clustering." Expected Submission: 2019.>
+%%  **P. White**, A. Gelfand, and F. Li, "Model Comparison and Validation for Bayesian Hawkes Process Models." Expected Submission: 2019.
+%%  **P. White**, A. Gelfand, and F. Li, "Bayesian Modeling for Generalized Evolutionary Point Processes." Expected Submission: 2019.
+
+
 ## Publications
 
 #### Peer-reviewed Publications
@@ -19,14 +30,7 @@ subtitle:
 - **P. White** and E. Porcu, "Towards a Complete Picture of Covariance Functions on Spheres Cross Time." [link](https://arxiv.org/abs/1807.04272)
 - M. Gruen, **P. White**, and B. Hare, "Do veterinarians or the public believe dog breed differ in pain sensitivity." .
 
-## Current Projects
-
-[//]: # A. Alegria, E. Porcu, and **P. White**, "Space-Time Geostatistical Models with both Linear and Seasonal Temporal Components. Expected Submission: 2019.
-[//]: #  **P. White** and A. Gelfand, "Multivariate Functional Factor Models with Time-varying Clustering." Expected Submission: 2019.
-[//]: # **P. White**, A. Gelfand, and F. Li, "Model Comparison and Validation for Bayesian Hawkes Process Models." Expected Submission: 2019.
-[//]: #  **P. White**, A. Gelfand, and F. Li, "Bayesian Modeling for Generalized Evolutionary Point Processes." Expected Submission: 2019.
-
-## Posters and Presentations
+#### Posters and Presentations
 
 - "Pollution State Modeling for Mexico City"
   - ASA ENVR Workshop - Statistics for the Environment: Research, Practice and Policy (2018)
