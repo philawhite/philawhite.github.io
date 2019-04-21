@@ -6,6 +6,6 @@ subtitle:
 
 I started as an Assistant Professor in the Department of Statistics at BYU in April 2019. My research interests are spatial and spatiotemporal statistics, time series analysis, functional data analysis, hierarchical modeling, and Bayesian statistics. Most of all, I enjoy working on applied problems.
 
-I completed my Ph.D. in Statistical Science at Duke University in January 2019. Alan Gelfand was my dissertation advisor. Prior to Duke, I completed a B.S. in Applied Physics and an M.S. in Statistics at BYU. 
+I completed my Ph.D. in Statistical Science at Duke University in January 2019. Alan Gelfand and Fan Li were my dissertation advisors. Prior to Duke, I completed a B.S. in Applied Physics and an M.S. in Statistics at BYU. 
 
 Outside of my work, I enjoy spending time with my wife (Laurel) and my three sons. I also enjoy cooking/baking, playing music, getting outdoors, and traveling.
