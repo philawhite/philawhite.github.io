@@ -11,11 +11,4 @@ My primary methodological areas of interest are in spatial statistics, time seri
 
 I am working on a few projects in pollution monitoring, including synthesizing data from stationary and mobile pollution monitors. In addition, I am interested in functional data analysis and have been developing methods for working with pollutants as multivariate functional data. I have worked on developing valid (cross-)covariance models for specific domains. I am working on point process modeling with applications in public policy and traffic engineering. I am also working on projects in ice sheet modeling with various goals.
 
-[Click here my full CV.](https://philawhite.github.io/CV/),
-
-<!--- 
-A. Alegria, E. Porcu, and **P. White**, "Space-Time Geostatistical Models with both Linear and Seasonal Temporal Components. Expected Submission: 2019.
-**P. White** and A. Gelfand, "Multivariate Functional Factor Models with Time-varying Clustering." Expected Submission: 2019
-**P. White**, A. Gelfand, and F. Li, "Model Comparison and Validation for Bayesian Hawkes Process Models." Expected Submission: 2019.
- **P. White**, A. Gelfand, and F. Li, "Bayesian Modeling for Generalized Evolutionary Point Processes." Expected Submission: 2019. 
- ---
+[Click here my full CV.](https://philawhite.github.io/CV/)
