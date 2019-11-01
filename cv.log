@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.21)  15 OCT 2019 19:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.29)  1 NOV 2019 12:08
 entering extended mode
 **./cv.tex
 (cv.tex
@@ -21,7 +21,7 @@ File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/multirow\multirow.sty"
-Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
 \multirow@colwidth=\skip43
 \multirow@cntb=\count88
 \multirow@dima=\skip44
@@ -59,7 +59,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
 ("C:\Program Files\MiKTeX 2.9\tex/latex/enumitem\enumitem.sty"
-Package: enumitem 2019/06/20 v3.9 Customized lists
+Package: enumitem 2019/02/04 v3.8 Customized lists
 \labelindent=\skip45
 \enit@outerparindent=\dimen112
 \enit@toks=\toks16
@@ -458,82 +458,82 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 [1
 
 {C:/Users/philaw/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 142--142
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 193--193
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 
  []
 
 
-Overfull \hbox (3.86871pt too wide) in paragraph at lines 228--229
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+
+ []
+
+
+Overfull \hbox (3.86871pt too wide) in paragraph at lines 231--232
 \OT1/ptm/m/n/12 Moun-tain Asia,'' sub-mit-ted to the Na-tional Aero-nau-tics an
 d Space Ad-min-is-tra-tion (Role:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--234
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 261--261
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--275
+Underfull \hbox (badness 10000) in paragraph at lines 278--278
 
  []
 
 
-Overfull \hbox (36.84459pt too wide) in paragraph at lines 282--293
+Overfull \hbox (36.84459pt too wide) in paragraph at lines 285--296
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 342.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 345.
 [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 342.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 345.
  (cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 342.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 342.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 345.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 345.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 342.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 345.
  ) 
 Here is how much of TeX's memory you used:
- 7983 strings out of 492895
- 119833 string characters out of 3133476
- 226365 words of memory out of 3000000
- 11689 multiletter control sequences out of 15000+200000
+ 7983 strings out of 492941
+ 119823 string characters out of 3135379
+ 225921 words of memory out of 3000000
+ 11670 multiletter control sequences out of 15000+200000
  19667 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,8n,38p,327b,674s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,8n,38p,327b,574s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on cv.pdf (4 pages, 76437 bytes).
+Output written on cv.pdf (4 pages, 77179 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
- 101 named destinations out of 1000 (max. 500000)
+ 168 PDF objects out of 1000 (max. 8388607)
+ 103 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
