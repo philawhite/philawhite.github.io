@@ -8,6 +8,7 @@ subtitle:
 
 #### Brigham Young University
 
+- Statistics 330: Intro to Regression (Winter 2020)
 - Statistics 641: Probability and Inference (Fall 2019)
 - Swedish 201: Winter 2012 
 - Swedish 202: Fall 2011, Fall 2012
