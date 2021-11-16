@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.29)  29 OCT 2021 10:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.29)  16 NOV 2021 09:03
 entering extended mode
 **./cv.tex
 (cv.tex
@@ -454,7 +454,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--96
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 103.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 101.
 
 Overfull \hbox (0.2591pt too wide) in paragraph at lines 118--119
 []\OT1/ptm/m/n/10.95 H. Sa-lomons, K. Smith, M. Callahan-Beckel, M. Calla-han, 
@@ -530,13 +530,13 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 432.
  ) 
 Here is how much of TeX's memory you used:
- 7988 strings out of 492941
- 119898 string characters out of 3135379
+ 7989 strings out of 492941
+ 119906 string characters out of 3135379
  226913 words of memory out of 3000000
  11672 multiletter control sequences out of 15000+200000
  19671 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,8n,38p,441b,574s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,8n,38p,441b,682s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
@@ -544,9 +544,9 @@ pe1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utm
 b8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on cv.pdf (5 pages, 113069 bytes).
+Output written on cv.pdf (5 pages, 113694 bytes).
 PDF statistics:
- 198 PDF objects out of 1000 (max. 8388607)
- 108 named destinations out of 1000 (max. 500000)
+ 202 PDF objects out of 1000 (max. 8388607)
+ 109 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
