@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.16)  27 FEB 2022 14:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.16)  15 MAR 2022 09:46
 entering extended mode
 **./cv.tex
 (cv.tex
@@ -560,11 +560,11 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 Here is how much of TeX's memory you used:
  11124 strings out of 478869
  168543 string characters out of 2860376
- 495750 words of memory out of 3000000
+ 494750 words of memory out of 3000000
  28738 multiletter control sequences out of 15000+600000
  419775 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,66p,449b,699s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,8n,66p,449b,677s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
@@ -572,9 +572,9 @@ nts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8
 .pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program File
 s/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on cv.pdf (5 pages, 119862 bytes).
+Output written on cv.pdf (5 pages, 120081 bytes).
 PDF statistics:
- 208 PDF objects out of 1000 (max. 8388607)
+ 209 PDF objects out of 1000 (max. 8388607)
  109 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
