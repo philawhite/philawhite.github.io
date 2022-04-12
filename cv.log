@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.16)  15 MAR 2022 09:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.16)  11 APR 2022 20:16
 entering extended mode
 **./cv.tex
 (cv.tex
@@ -560,7 +560,7 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 Here is how much of TeX's memory you used:
  11124 strings out of 478869
  168543 string characters out of 2860376
- 494750 words of memory out of 3000000
+ 495750 words of memory out of 3000000
  28738 multiletter control sequences out of 15000+600000
  419775 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -572,7 +572,7 @@ nts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8
 .pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program File
 s/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on cv.pdf (5 pages, 120081 bytes).
+Output written on cv.pdf (5 pages, 120079 bytes).
 PDF statistics:
  209 PDF objects out of 1000 (max. 8388607)
  109 named destinations out of 1000 (max. 500000)
