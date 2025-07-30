@@ -14,7 +14,8 @@ My primary methodological areas of interest are Bayesian hierarchical modeling, 
 - Modeling biodiversity.
 - Developing valid (cross-)covariance models for Gaussian process models in various geometries.
 - Dependent point processes with applications in public policy and traffic engineering.
-- Applied environmental and climate data problems.
+- Applied veterinary science.
+- Applied environmental, ecological, and climate data problems.
 
 
 [Click here my full CV.](https://philawhite.github.io/CV/)
