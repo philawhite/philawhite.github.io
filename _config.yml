@@ -10,3 +10,6 @@ author:
 
 plugins:
   - jekyll-include-cache
+
+include:
+  - _pages

@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /CV/
+permalink: /cv/
 ---
 
 <!-- Run jekyll serve, and go to localhost:4000 in web browser -->

@@ -1,11 +1,7 @@
-# Philip White
 
 Assistant Professor 
-
 Department of Statistics  
-
 School of Medicine
-
 Brigham Young University  
 
 ---
@@ -69,20 +65,6 @@ A current version of my CV is available here:
 
 ---
 
-## 🛠️ Technical Details
-
-- Static site generator: Jekyll
-- Hosting: GitHub Pages
-- Theme: modern Jekyll theme (e.g., Minimal Mistakes)
-- Content written in Markdown
-
----
-
-## 📁 Repository Structure
-
-text . ├── _pages/        # About, Research, Teaching, CV pages ├── assets/        # Images, PDFs, and other static files ├── _config.yml    # Site configuration ├── index.md       # Homepage 
-
----
 
 ## 📬 Contact
 
