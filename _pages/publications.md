@@ -4,16 +4,11 @@ title: "Publications"
 permalink: /publications/
 ---
 
-## Publications
-
 This page is under construction.
 
-### Journal Articles
+## Working Papers
 
-- **White, P.**, et al. (Year). *Title of paper*. Journal Name.
-- **White, P.**, et al. (Year). *Another paper*. Journal Name.
 
-### Working Papers
+## Journal Articles
 
-- *Title of working paper*. (Under review)
 
