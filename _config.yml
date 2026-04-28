@@ -6,7 +6,11 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 author:
   avatar: /assets/images/headshot_background.jpg
-  bio: "Assistant Professor of Statistics at BYU"
+  bio: |
+    Assistant Professor
+    Department of Statistics 
+    School of Medicine 
+    Brigham Young University  
 
 plugins:
   - jekyll-include-cache
