@@ -1,8 +1,11 @@
 # Philip White
 
 Assistant Professor 
+
 Department of Statistics  
+
 School of Medicine
+
 Brigham Young University  
 
 ---
@@ -83,23 +86,7 @@ text . ├── _pages/        # About, Research, Teaching, CV pages ├── 
 
 ## 📬 Contact
 
-- Email: philawhite@gmail.com  
-- Department of Statistics, BYU  
+- Email: pwhite [at] stat.byu.edu  
+- Department of Statistics, School of Medicine, BYU  
 
 ---
-
-## 📷 Photo
-
-A profile image is included on the site (see instructions below if modifying).
-
----
-
-## ⚠️ Notes
-
-This site was migrated from an older Beautiful Jekyll template to a modern, more accessible design.
-
----
-
-## 📄 License
-
-This repository contains personal academic content. Please do not reuse without permission
