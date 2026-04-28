@@ -8,9 +8,9 @@ author:
   avatar: /assets/images/headshot_background.jpg
   bio: |
     Assistant Professor<br>
+    Brigham Young University<br>
     Department of Statistics<br>
-    School of Medicine<br>
-    Brigham Young University
+    School of Medicine
 
 plugins:
   - jekyll-include-cache
