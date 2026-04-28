@@ -2,7 +2,7 @@
 
 title: Philip White
 
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll
 
 author:
   name: "Philip White"
