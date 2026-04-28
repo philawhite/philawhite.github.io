@@ -6,11 +6,12 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 author:
   avatar: /assets/images/headshot_background.jpg
-  bio: |
-    Assistant Professor
-    Department of Statistics 
-    School of Medicine 
-    Brigham Young University  
+
+bio: |
+  Assistant Professor<br>
+  Department of Statistics<br>
+  School of Medicine<br>
+  Brigham Young University
 
 plugins:
   - jekyll-include-cache
