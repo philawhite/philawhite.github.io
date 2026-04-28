@@ -1,8 +1,11 @@
 # Philip White
 
 Assistant Professor 
+
 Department of Statistics  
+
 School of Medicine
+
 Brigham Young University  
 
 ---
