@@ -1,7 +1,12 @@
 # _config.yml
 
-theme: minimal-mistakes-jekyll
 title: Philip White
+
+remote_theme: "mmistakes/minimal-mistakes"
+
 author:
   name: "Philip White"
-  avatar: "/img/byu_headshot.jpg"
+  avatar: /assets/images/headshot_background.jpg
+
+plugins:
+  - jekyll-include-cache
