@@ -23,7 +23,9 @@ jobs:
       - run: bundle install
 
       - run: bundle exec jekyll build --trace
-
+        env:
+          JEKYLL_ENV: production
+          GITHUB_PAGES: false
       - uses: actions/upload-pages-artifact@v3
 
   deploy:
