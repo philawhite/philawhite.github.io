@@ -24,7 +24,7 @@ jobs:
 
       - run: bundle install
 
-      - run: bundle exec jekyll build --trace --config _config
+      - run: bundle exec jekyll build --trace
 
       - uses: actions/upload-pages-artifact@v3
 
