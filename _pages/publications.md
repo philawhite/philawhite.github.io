@@ -9,6 +9,6 @@ This page is under construction.
 ## Working Papers
 
 
-## Journal Articles
+## Publications
 
-
+{% bibliography %}

@@ -14,6 +14,15 @@ author:
 
 plugins:
   - jekyll-include-cache
+  - jekyll-scholar
 
 include:
   - _pages
+  - _bibliography
+
+scholar:
+  style: apa
+  source: ./_bibliography
+  bibliography: all_cites.bib
+  sort_by: year
+  order: descending
