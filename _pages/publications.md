@@ -19,6 +19,6 @@ permalink: /publications/
 - Alexion Paper
 --->
 
-## Publications
+## Journal Articles
 
 {% bibliography --group_by year --group_order descending --limit 1000 %}

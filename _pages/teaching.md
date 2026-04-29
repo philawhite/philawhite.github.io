@@ -6,14 +6,14 @@ permalink: /teaching/
 
 ## Courses Taught
 
-#### Brigham Young University
+### Brigham Young University
 
-- Statistics 330: Intro to Regression/Statistical Modeling II
-- Statistics 641: Probability and Inference
+- Statistics 330: Intro to Regression/Statistical Modeling 2
+- Statistics 641: Probability Theory and Mathematical Statistics 1
 - Statistics 250: Applied R Programming
-- Statistics 437: Applied Biostatistics
+- Statistics 437: Applications in Biostatistics
 
-#### Duke University
+### Duke University
 
 - Statistics 111: Probability and Statistics
 
