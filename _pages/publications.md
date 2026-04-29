@@ -11,4 +11,4 @@ This page is under construction.
 
 ## Publications
 
-{% bibliography --group_by year --group_order descending %}
+{% bibliography --group_by year --group_order descending --limit 1000 %}
