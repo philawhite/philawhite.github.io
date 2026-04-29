@@ -2,7 +2,7 @@
 
 title: Philip White
 
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll
 
 author:
   avatar: /assets/images/headshot_background.jpg
@@ -26,7 +26,4 @@ scholar:
   bibliography: all_cites.bib
   sort_by: year
   order: descending
-
-whitelist:
-  - jekyll-scholar
-
+  limit: 1000
