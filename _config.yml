@@ -26,3 +26,7 @@ scholar:
   bibliography: all_cites.bib
   sort_by: year
   order: descending
+
+whitelist:
+  - jekyll-scholar
+
