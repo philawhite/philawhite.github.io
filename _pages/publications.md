@@ -21,4 +21,7 @@ permalink: /publications/
 
 ## Journal Articles
 
+<!--
+{% bibliography --group_by year --group_order descending --limit 1000 %}
+--->
 {% bibliography descending --limit 1000 %}
