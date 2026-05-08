@@ -29,6 +29,5 @@ scholar:
   order: descending
   limit: 1000
 
-
-custom_css:
-  - /assets/css/custom.css
+# custom_css:
+#   - /assets/css/custom.css
