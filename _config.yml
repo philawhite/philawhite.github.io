@@ -28,3 +28,7 @@ scholar:
   sort_by: year
   order: descending
   limit: 1000
+
+
+custom_css:
+  - /assets/css/custom.css

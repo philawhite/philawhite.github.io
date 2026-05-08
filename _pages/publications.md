@@ -21,4 +21,6 @@ permalink: /publications/
 
 ## Journal Articles
 
+<div class="pub-list">
 {% bibliography --group_by year --group_order descending --limit 1000 %}
+</div>
